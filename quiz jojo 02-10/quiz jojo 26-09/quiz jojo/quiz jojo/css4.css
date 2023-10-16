@@ -1,0 +1,47 @@
+body{
+    color: rgba(92, 0, 0, 0.979);
+    margin-top: 13%;
+    text-align: center;
+}
+fieldset{
+    margin-left: 40%;
+    margin-right: 42%;
+    border-radius: 20px;
+    background-color: rgb(255, 45, 45);
+    border-color: rgb(255, 219, 57);
+}
+legend{
+    border-style: ridge;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(255, 86, 86);
+    border-color: rgb(255, 219, 57);
+}
+input{
+    border-radius: 10px;
+    border-color: rgb(105, 0, 0);
+    font-size: 30px;
+    background-color: rgb(255, 86, 86);
+}
+h1{ 
+    color: rgb(92, 0, 0, 0.979);
+    margin-left: 38%;
+    margin-right: 40%;
+    background-color: rgb(255, 86, 86);
+    border-color: rgb(255, 219, 57);
+    border-style: ridge;
+    border-radius: 10px;
+}
+hr{
+    border-color: rgb(105, 0, 0);
+}
+.p1{
+    opacity: 100%;
+}
+h2{
+    border-style: ridge;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(255, 86, 86);
+    border-color:rgb(105, 0, 0);
+}
